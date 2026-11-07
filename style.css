@@ -1,0 +1,18 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #f7fbf4;
+    color: #474324;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 24px;
+    line-height: 1.6;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #695c13;
+}
+
+h2 {
+    color: #7a6524;
+}
